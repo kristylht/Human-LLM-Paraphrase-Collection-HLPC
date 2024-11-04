@@ -1,1 +1,2 @@
-# Human-LLM-Paraphrase-Collection-HLPC-
+# Human & LLM Paraphrase Collection (HLPC) 
+
